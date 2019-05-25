@@ -1,1 +1,1 @@
-# FPGA-Based-Architecture-of-Network-On-Chip-NoC
+# FPGA-Based Architecture of Network On Chip (NoC)
