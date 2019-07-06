@@ -7,6 +7,8 @@ This work is for â€œDevelop an ASIC-Based Architecture of Network On Chip (NoC)â
   
   + 01_Technique Report for an Adaptive 2D Mesh Network.pdf : Technique report
   
+  + 02_Bachelor_Thesis.pdf: Composed in Vietnamese language
+  
 02_Codes:
    
   + 01_VCS_Simulation.tar.gz : RTL design (Verilog HDL) and environmental simulation
